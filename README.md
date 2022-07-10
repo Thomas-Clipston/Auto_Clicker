@@ -1,5 +1,6 @@
 A simple autoclicker
 The program requires python and the tkinter/mouse libarys to be installed for the program to run
+
 Current functionality includes
 -------------------------------
 - Allows user to enter the number of clicks and the interval between the clicks
