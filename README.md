@@ -1,4 +1,5 @@
 A simple autoclicker
+---------------------
 The program requires python and the tkinter/mouse libarys to be installed for the program to run
 
 Current functionality includes
